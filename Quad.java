@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+//class for quad 
 public class Quad {
 
 	public Quadtree makeQuadTreee(int x, int y, int sideSize, int[][] image) {
